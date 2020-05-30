@@ -1,4 +1,4 @@
-#README-TARA1
+#README-TARA1#
 Tara1 was developed by my group consisting of six members during MP4006 Robotic Course, designed by Mechanical & Aerospace Engineering, Nayang Technological University, Singapore. Tara1 is a three-legged robot that can climb stairs. The project involved detailed studies of the current robotics mechanism to climb stairs, structural design and fabrication, software programming, and demo show by the end of the course.
 
 The motion of the robot is programmed into the microcontroller. Then, the microcontroller will send out signals to the servo motors and receive signals from the sensor.
